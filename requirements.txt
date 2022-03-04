@@ -7,9 +7,9 @@ scipy
 Cython
 sympy
 ase
-asap3
 seekpath
 widget-bzvisualizer==0.1.0b5
 plotly
 pandas
 nglview
+asap3
